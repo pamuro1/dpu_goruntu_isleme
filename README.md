@@ -1,0 +1,3 @@
+# goruntu_isleme_yaz_okulu_vize_sorular_cevaplar
+dumlupinar_universitesi_goruntu_isleme_yaz_okulu_vize_sorular_cevaplar
+Eğitmen Ahmet Çelik
