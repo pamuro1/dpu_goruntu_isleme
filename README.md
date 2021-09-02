@@ -1,3 +1,6 @@
-# goruntu_isleme_yaz_okulu_vize_sorular_cevaplar
-dumlupinar_universitesi_goruntu_isleme_yaz_okulu_vize_sorular_cevaplar
+Kütahya Dumlupınar Üniversitesi
+Mühendislik Fakültesi
+Bilgisayar Mühendisliği
+4. Sınıf Görüntü İşleme Dersi
+08/2021 Yaz Okulu Vize Soru ve Cevapları
 Eğitmen Ahmet Çelik
